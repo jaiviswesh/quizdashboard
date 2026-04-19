@@ -1,5 +1,4 @@
 # Online Quiz & Assessment System
-### Java Console Application - Core OOP + File I/O
 
 ---
 
